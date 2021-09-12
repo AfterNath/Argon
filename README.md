@@ -15,7 +15,7 @@
     <br />
     <a href="https://github.com/AfterNath/Argon/issues">Report Bug</a>
     ·
-    <a href="https://github.com/AfterNath/Argon/issues">Demender une nouvelle fonctionalitée</a>
+    <a href="https://github.com/AfterNath/Argon/issues">Suggestions</a>
   </p>
 </p>
 
