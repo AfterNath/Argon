@@ -22,7 +22,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Argon
 
-Argon est un outil développé en python vous permetent de prendre plug facilement GIT en main... Il est Open-Source sous la license : <strong> Eclipse Public License 2.0</strong>
+Argon est un outil développé en python vous permetent de prendre plus facilement GIT en main... Il est Open-Source sous la license : <strong> Eclipse Public License 2.0</strong>
 
 
 ### Modules utilisés
