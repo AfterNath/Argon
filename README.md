@@ -54,9 +54,19 @@ Argon est un outil développé en python vous permetent de prendre plus facileme
 
 ### Utilisation
 
-#### Soon...
+#### Attendre le chargement...
+![image](https://user-images.githubusercontent.com/78166954/132998451-4f0b72a0-bdbd-499c-9dc6-cee06f575b1b.png)
 
+#### Menu de selection >
 
+![image](https://user-images.githubusercontent.com/78166954/132998482-7170e29e-ac04-4c0b-a17a-ec581544e532.png)
+
+1. Initialiser le REPO  >> Lancer GIT dans le repertoire
+2. Commit  >> Sauvegarder les fichier dans le repository                      
+3. Envoyer sur GitHub  >> Publier sur GitHub   
+4. Credits  >> //Pas encore dev//
+
+#### 
 <!-- CONTACT -->
 ## Contact
 
