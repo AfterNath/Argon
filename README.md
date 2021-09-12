@@ -5,19 +5,17 @@
     <img src="https://i.ibb.co/DK0bRjQ/Argon-Crystal.png" alt="Logo" width="100" height="100">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Argon</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Une aide tres utile pour GIT & GitHub
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Documentation »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/AfterNath/Argon/issues">Report Bug »</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/AfterNath/Argon/issues">Demender une nouvelle fonctionalitée »</a>
   </p>
 </p>
 
