@@ -53,7 +53,7 @@ To get a local copy up and running follow these simple example steps.
 ### Pre-Requis
 [Python](https://www.python.org/)
 
-# Une fois python installé, installez les modules a l'aide de ces commandes :
+- Une fois python installé, installez les modules a l'aide de ces commandes :
   
   ```
   py -m pip install
