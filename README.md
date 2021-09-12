@@ -10,7 +10,7 @@
   <p align="center">
     Une aide tres utile pour GIT & GitHub
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Documentation »</strong></a>
+    <a href="#"><strong>Documentation »</strong></a>
     <br />
     <br />
     <a href="https://github.com/AfterNath/Argon/issues">Report Bug</a>
@@ -147,7 +147,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Lien du projet: [https://github.com/AfterNath/Argon](https://github.com/AfterNath/Argon)
 
 
 
