@@ -11,7 +11,7 @@
 <br />
 <p align="center">
   <a href="#">
-    <img src="https://i.ibb.co/DK0bRjQ/Argon-Crystal.png" alt="Logo" width="80" height="80">
+    <img src="https://i.ibb.co/DK0bRjQ/Argon-Crystal.png" alt="Logo" width="100" height="100">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
