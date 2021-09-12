@@ -70,7 +70,7 @@ Argon est un outil développé en python vous permetent de prendre plus facileme
 <!-- CONTACT -->
 ## Contact
 
-Mon discord : </AfterNath>#9201
+Mon discord : ```</AfterNath>#9201```
 
 Lien du projet: [https://github.com/AfterNath/Argon](https://github.com/AfterNath/Argon)
 
