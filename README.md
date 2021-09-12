@@ -55,9 +55,15 @@ To get a local copy up and running follow these simple example steps.
 
 - Une fois python installé, installez les modules a l'aide de ces commandes :
   
+  ✿ Pyfade
   ```
-  py -m pip install
+  py -m pip install pyfade
   ```
+  ✿ Colorama
+  ```
+  py -m pip install colorama
+  ```
+  
 
 ### Installation
 
