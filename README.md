@@ -59,7 +59,7 @@ To get a local copy up and running follow these simple example steps.
   ```
   py -m pip install pyfade
   ```
-  ✿ Colorama
+  ✿ Colorama By [Tartley](https://github.com/tartley)
   ```
   py -m pip install colorama
   ```
